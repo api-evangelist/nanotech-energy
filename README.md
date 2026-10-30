@@ -64,5 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nanotech Energy is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/nanotech-energy_stock/
+Nanotech Energy is an advanced materials manufacturer that develops and produces graphene-based super materials and the energy-storage products built from them. Its catalog spans graphene powders, graphene oxide pastes, dispersions, conductive inks and conductive adhesives, silver nanowires, and non-flammable lithium-ion battery cells and packs aimed at home and grid energy storage, marine, household and electric-vehicle applications. The company also offers customer-facing testing, analysis and product development services to help customers scale a graphene formulation from concept to full production. It is a physical-goods manufacturer: it publishes a marketing and product website but no developer program, public API, SDK or machine-readable specification of any kind.
+
+**Areas:** Company · Manufacturing · Materials · Graphene · Nanotechnology · Batteries · Energy Storage · Energy
+
+## Nanotech Energy on APIs.io
+
+Everything profiled for Nanotech Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nanotech-energy/](https://apis.io/providers/nanotech-energy/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nanotech Energy Domain Security](https://apis.io/security/nanotech-energy/nanotech-energy-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nanotechenergy.com/)
+- [Blog](https://nanotechenergy.com/about-us/blog/)
+- [Terms of service](https://nanotechenergy.com/terms/)
+- [Privacy policy](https://nanotechenergy.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 9.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 45.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.5** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nanotech-energy/](https://apis.io/providers/nanotech-energy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nanotech Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nanotech-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
